@@ -1,2 +1,15 @@
-# go_learning
-learning go demo
+# 学习Go语言的记录
+
+　　因为之前写了一部分，但是没有留下源码，所以就不准备上传了。
+
+　　详细说明请访问：[简书](http://www.jianshu.com/nb/15597318)
+
+
+1. lesson_4 闭包（匿名函数）
+2. lesson_5 延迟(defer)、集合、字符串函数、字符串格式等
+3. lesson_6 JSON、时间日期、Epoch、时间格式化、伪随机数
+4. lesson_7 字符串数字解析、URL解析、SHA1散列、BASE64
+5. lesson_8 文件读取、文件写入、线性过滤、命令行参数、命令行标志
+6. lesson_9 环境变量、执行程序、信号、程序退出
+
+
